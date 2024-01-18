@@ -6,7 +6,7 @@ An introduction to computer science course with particular emphasis on software 
 
 In this project, students develop a simulator and multiple strategies for the dice game Hog utilizating a combination of control statements and higher-order functions.
 
-**Project 2: CS 61A Autocorrected Typing Software (Cat)**
+**Project 2: CS 61A Autocorrected Typing Software**
 
 In this project, students write a program that measures typing speed with typing autocorrect. 
 
